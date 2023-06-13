@@ -91,15 +91,16 @@
   }
 }
 
-.banner {
+banner {
   width: 100%; /* Adjust the width according to your layout */
-  max-height: 200px; /* Adjust the height as needed */
+  max-height: 100px; /* Adjust the height as needed */
   overflow: hidden;
 }
 
-.banner img {
+banner img {
   width: 100%;
   height: auto;
+  object-fit: cover;
 }
 
 body {
