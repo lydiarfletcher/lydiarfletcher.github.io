@@ -91,19 +91,17 @@
   }
 }
 
-<style>
-.banner {
+banner {
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     /* Set other background properties if needed */
 }
 
-.banner img {
+banner img {
     /* Style the image if needed */
     width: 100%; /* Adjust the width as per your requirements */
     height: auto; /* Maintain the aspect ratio */
 }
-</style>
 
 body {
   margin: 0;
