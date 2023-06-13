@@ -94,12 +94,13 @@
 banner {
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
-    /* Set other background properties if needed */
+    /* Prevent image from repeating */
+    background-repeat: no-repeat;
+    height: 48px; 
+    background-position: center
 }
 
 banner img {
-    /* Style the image if needed */
-    height: 48px; /* Maintain the aspect ratio */
 }
 
 body {
