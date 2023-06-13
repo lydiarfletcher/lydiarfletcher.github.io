@@ -92,20 +92,18 @@
 }
 
 body.unique-page {
-  background-color: rgba(0, 0, 0, 0.2); /* Adjust the alpha value as needed */
+  /* background-color: rgba(0, 0, 0, 0.2); Adjust the alpha value as needed */
   background-image: url("img/tree_background.JPG");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-banner {
-  width: 100%;
-  overflow: hidden;
-}
-
-banner img {
-  width: 100%;
-  height: auto;
+.hero-banner {
+  background-image: url("img/tree_background169.JPG");
+  background-size: cover;
+  background-position: center;
+  height: 400px; /* Adjust the height as needed */
+  padding: 50px; /* Add padding around the content */
 }
 
 custom-list {
