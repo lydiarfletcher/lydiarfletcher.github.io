@@ -103,6 +103,10 @@ banner img {
   object-fit: cover;
 }
 
+custom-list {
+  list-style-type: disc; /* Change to the desired bullet style */
+}
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
