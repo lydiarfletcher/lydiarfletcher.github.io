@@ -92,16 +92,14 @@
 }
 
 banner {
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    /* Prevent image from repeating */
-    background-repeat: no-repeat;
+  width: 100%; /* Adjust the width according to your layout */
+  max-height: 200px; /* Adjust the height as needed */
+  overflow: hidden;
 }
 
 banner img {
-    background-size:cover;
-    background-position: center;
-    height: 32px; 
+  width: 100%;
+  height: auto;
 }
 
 body {
