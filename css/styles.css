@@ -91,16 +91,13 @@
   }
 }
 
-banner {
-  width: 100%; /* Adjust the width according to your layout */
-  max-height: 100px; /* Adjust the height as needed */
-  overflow: hidden;
+.banner {
+  text-align: center;
 }
 
-banner img {
+.banner img {
   width: 100%;
   height: auto;
-  object-fit: cover;
 }
 
 custom-list {
