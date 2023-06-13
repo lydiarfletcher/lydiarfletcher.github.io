@@ -99,8 +99,8 @@ banner {
 
 banner img {
     /* Style the image if needed */
-    width: 100%; /* Adjust the width as per your requirements */
-    height: auto; /* Maintain the aspect ratio */
+    background-size:cover;
+    height: 100px; /* Maintain the aspect ratio */
 }
 
 body {
