@@ -96,11 +96,11 @@ banner {
     background-attachment: fixed;
     /* Prevent image from repeating */
     background-repeat: no-repeat;
-    height: 48px; 
-    background-position: center
 }
 
 banner img {
+    height: 32px; 
+    background-position: center
 }
 
 body {
