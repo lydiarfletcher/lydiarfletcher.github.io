@@ -93,7 +93,7 @@
 
 bannerimage {
   width: 100%;
-  background-image: img/tree_background.jpg;
+  background-image: src= img/tree_background.jpg;
   height: 405px;
   background-position: center;
 }
