@@ -91,6 +91,13 @@
   }
 }
 
+bannerimage {
+  width: 100%;
+  background-image: img/tree_background.jpg;
+  height: 405px;
+  background-position: center;
+}
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
