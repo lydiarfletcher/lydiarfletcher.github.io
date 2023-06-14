@@ -92,21 +92,8 @@
 }
 
 #bc-img {
-  background-image: url("../img/tree_background169.JPG");
+  background-image: url("../img/tree_background.JPG");
   background-size: cover
-  opacity: 0.6;
-}
-
-.bc-img {
-  background-image: url("../img/tree_background169.JPG");
-}
-
-.hero-banner {
-  background-image: url('img/tree_background169.JPG');
-  background-size: cover;
-  background-position: center;
-  height: 400px; /* Adjust the height as needed */
-  padding: 50px; /* Add padding around the content */
 }
 
 custom-list {
