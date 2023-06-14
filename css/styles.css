@@ -91,8 +91,10 @@
   }
 }
 
+style="background-image: url('img/tree_background.JPG');
+
 .hero-banner {
-  background-image: url("img/tree_background169.JPG");
+  background-image: url('img/tree_background169.JPG');
   background-size: cover;
   background-position: center;
   height: 400px; /* Adjust the height as needed */
