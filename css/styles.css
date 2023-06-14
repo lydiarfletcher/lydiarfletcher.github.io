@@ -91,7 +91,7 @@
   }
 }
 
-#bc-img {
+#bc-img.container {
   background-image: url("img/tree_background169.JPG");
 }
 
