@@ -93,6 +93,10 @@
 
 style="background-image: url('img/tree_background.JPG');
 
+.bc-img {
+  background-image: url('img/tree_background169.JPG');
+}
+
 .hero-banner {
   background-image: url('img/tree_background169.JPG');
   background-size: cover;
