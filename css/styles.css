@@ -85,6 +85,15 @@
   box-sizing: border-box;
 }
 
+<style>
+.borderexample {
+ border-width:3px;
+ border-style:solid;
+ border-color:#287EC7;
+}
+</style>
+
+
 @media (prefers-reduced-motion: no-preference) {
   :root {
     scroll-behavior: smooth;
